@@ -8,6 +8,8 @@ To run the project follow the steps ahead.\
 2.Clone the repo on your local drive\
 3.In the terminal or console , run "npm run start" and explore the features\
 
+The to-do app will look something liks this:
+![Demo screenshot](https://user-images.githubusercontent.com/60056238/137641060-2eb48861-4547-499f-910e-453c5d376c40.PNG)
 
 Here are some important commands:
 
