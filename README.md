@@ -3,10 +3,10 @@ Helps to sort out your day.
 
 ## Running the Project
 
-To run the project follow the steps ahead.
-1.Fork the repository from the top left corner
-2.Pull the code on your local drive
-3.In the terminal or console , run "npm run start" and explore the features
+To run the project follow the steps ahead.\
+1.Fork the repository from the top left corner\
+2.Pull the code on your local drive\
+3.In the terminal or console , run "npm run start" and explore the features\
 
 
 Here are some important commands:
